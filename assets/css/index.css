@@ -1,0 +1,8 @@
+@import url('../variables.css');
+@import url('./global/reset.css');
+@import url('./global/base.css');
+@import url('./global/utilities.css');
+@import url('./pages/index/hero-section.css');
+@import url('./pages/index/about-section.css');
+@import url('./pages/index/services-section.css');
+@import url('./pages/index/contact-section.css');

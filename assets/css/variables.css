@@ -1,0 +1,20 @@
+:root {
+  /* Design System Base */
+  --primary-color: #7A1F8A; /* acai-500 */
+  --primary-dark: #2A0038; /* acai-900 */
+  --primary-light: #8E3BB0; /* acai-100 */
+  --primary-neon: #C218D4; /* acai-neon */
+
+  --neutral-50: #fafafa;
+  --neutral-100: #f4f4f5;
+  --neutral-800: #27272a;
+  --neutral-900: #18181b;
+
+  --success: #10b981;
+  --warning: #f59e0b;
+  --error: #ef4444;
+
+  --border-radius: 16px;
+  --transition-fast: .3s ease;
+  --transition-slow: .6s ease;
+}
